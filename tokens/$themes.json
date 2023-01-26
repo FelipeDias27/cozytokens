@@ -8,5 +8,13 @@
       "Theme01/Comp": "enabled"
     },
     "$figmaStyleReferences": {}
+  },
+  {
+    "id": "c534edfcb995e21841b6f96c32476a9fd222f71a",
+    "name": "QuintoCred",
+    "selectedTokenSets": {
+      "Global/Base": "enabled"
+    },
+    "$figmaStyleReferences": {}
   }
 ]
