@@ -1,0 +1,20 @@
+{
+  "button": {
+    "special": {
+      "default": {
+        "background": {
+          "color": {
+            "value": "{Surface.Interaction.Special.Default}",
+            "type": "color"
+          }
+        }
+      }
+    },
+    "border": {
+      "radius": {
+        "value": "{border.radius.cta}",
+        "type": "borderRadius"
+      }
+    }
+  }
+}

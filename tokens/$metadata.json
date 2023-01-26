@@ -1,0 +1,9 @@
+{
+  "tokenSetOrder": [
+    "Global/Base",
+    "Theme01/Alias",
+    "Theme01/Comp",
+    "Theme02/Alias",
+    "Theme02/Comp"
+  ]
+}
