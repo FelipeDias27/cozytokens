@@ -6,6 +6,9 @@
     "Theme02/Alias",
     "QuintoCred/Alias",
     "Theme02/Comp",
-    "QuintoCred/Comp"
+    "QuintoCred/Comp",
+    "MyStyleD/color/base",
+    "MyStyleD/color/font",
+    "MyStyleD/size/font"
   ]
 }
