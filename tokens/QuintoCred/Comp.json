@@ -9,7 +9,9 @@
           }
         }
       }
-    },
+    }
+  },
+  "tag": {
     "border": {
       "radius": {
         "value": "{border.radius.informative}",

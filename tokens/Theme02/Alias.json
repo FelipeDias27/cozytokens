@@ -83,7 +83,7 @@
       },
       "Special": {
         "Default": {
-          "value": "{_Base.Green.700}",
+          "value": "{_Base.Pink.700}",
           "type": "color"
         },
         "Hovered": {

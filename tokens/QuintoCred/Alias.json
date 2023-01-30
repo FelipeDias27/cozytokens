@@ -326,7 +326,7 @@
     },
     "Interaction": {
       "Default": {
-        "value": "{_Base.Pink.700}",
+        "value": "{_Base.Gray.900}",
         "type": "color"
       },
       "Hovered": {
