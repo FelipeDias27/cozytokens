@@ -1,7 +1,7 @@
 {
   "Surface": {
     "Default": {
-      "value": "{_Base.Green.500}",
+      "value": "{_Base.Gray.900}",
       "type": "color"
     },
     "Hovered": {
