@@ -46,11 +46,11 @@
     },
     "Selected": {
       "Default": {
-        "value": "{_Base.Gray.50}",
+        "value": "{_Base.Green.50}",
         "type": "color"
       },
       "Hovered": {
-        "value": "{_Base.Gray.100}",
+        "value": "{_Base.Green.100}",
         "type": "color"
       },
       "Highlight": {
@@ -532,11 +532,11 @@
     },
     "Selected": {
       "Default": {
-        "value": "{_Base.Gray.900}",
+        "value": "{_Base.Green.700}",
         "type": "color"
       },
       "Hovered": {
-        "value": "{_Base.Gray.800}",
+        "value": "{_Base.Green.300}",
         "type": "color"
       }
     },

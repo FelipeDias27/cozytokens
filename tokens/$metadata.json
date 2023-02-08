@@ -1,14 +1,13 @@
 {
   "tokenSetOrder": [
     "Global/Base",
-    "Theme01/Alias",
-    "Theme01/Comp",
-    "Theme02/Alias",
+    "Theme-Blue/Alias",
+    "Theme-Blue/Comp",
+    "Theme-Pink/Alias",
+    "Theme-Pink/Comp",
+    "Theme-Green/Alias",
+    "Theme-Green/Comp",
     "QuintoCred/Alias",
-    "Theme02/Comp",
-    "QuintoCred/Comp",
-    "MyStyleD/color/base",
-    "MyStyleD/color/font",
-    "MyStyleD/size/font"
+    "QuintoCred/Comp"
   ]
 }

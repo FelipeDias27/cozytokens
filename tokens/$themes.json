@@ -4,8 +4,10 @@
     "name": "QuintoAndar",
     "selectedTokenSets": {
       "Global/Base": "enabled",
-      "Theme01/Alias": "enabled",
-      "Theme01/Comp": "enabled"
+      "Theme-Blue/Alias": "enabled",
+      "Theme-Blue/Comp": "enabled",
+      "Theme-Green/Alias": "disabled",
+      "Theme-Green/Comp": "disabled"
     },
     "$figmaStyleReferences": {}
   },
@@ -13,7 +15,10 @@
     "id": "c534edfcb995e21841b6f96c32476a9fd222f71a",
     "name": "QuintoCred",
     "selectedTokenSets": {
-      "Global/Base": "enabled"
+      "Global/Base": "enabled",
+      "QuintoCred/Alias": "enabled",
+      "Theme-Green/Alias": "disabled",
+      "Theme-Green/Comp": "disabled"
     },
     "$figmaStyleReferences": {}
   }
