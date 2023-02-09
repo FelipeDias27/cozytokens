@@ -280,33 +280,29 @@
             "type": "color"
           }
         },
-        "Light": {
-          "01": {
-            "value": "{_Base.Misc.Frost}",
-            "type": "color"
-          },
-          "02": {
-            "value": "{_Base.Misc.Rose}",
-            "type": "color"
-          },
-          "03": {
-            "value": "{_Base.Misc.Spring}",
-            "type": "color"
-          }
+        "01": {
+          "value": "{_Base.Misc.Frost}",
+          "type": "color"
         },
-        "Dark": {
-          "01": {
-            "value": "{_Base.Blue.600}",
-            "type": "color"
-          },
-          "02": {
-            "value": "{_Base.Pink.700}",
-            "type": "color"
-          },
-          "03": {
-            "value": "{_Base.Green.700}",
-            "type": "color"
-          }
+        "02": {
+          "value": "{_Base.Misc.Rose}",
+          "type": "color"
+        },
+        "03": {
+          "value": "{_Base.Misc.Spring}",
+          "type": "color"
+        },
+        "04": {
+          "value": "{_Base.Blue.600}",
+          "type": "color"
+        },
+        "05": {
+          "value": "{_Base.Pink.700}",
+          "type": "color"
+        },
+        "06": {
+          "value": "{_Base.Green.700}",
+          "type": "color"
         }
       },
       "Highlight": {
@@ -410,7 +406,7 @@
       "value": "{_Base.Green.500}",
       "type": "color"
     },
-    "Decorative": {
+    "Brand": {
       "Light": {
         "value": "{_Base.Gray.50}",
         "type": "color"
@@ -464,7 +460,7 @@
       "value": "{_Base.Green.400}",
       "type": "color"
     },
-    "Decorative": {
+    "Brand": {
       "Others": {
         "16": {
           "value": "{_Base.Green.700}",
@@ -609,35 +605,9 @@
       "type": "color"
     }
   },
-  "border": {
-    "01": {
-      "value": {
-        "color": "{Border.Interaction.Default}",
-        "width": "1px",
-        "style": "solid"
-      },
-      "type": "border"
-    },
-    "radius": {
-      "informative": {
-        "value": "{border.radius.3}",
-        "type": "borderRadius"
-      },
-      "cta": {
-        "value": "{border.radius.1}",
-        "type": "borderRadius"
-      }
-    }
-  },
   "Logo": {
     "Main": {
       "value": "{Logo.QuintoCred}",
-      "type": "asset"
-    }
-  },
-  "Illustration": {
-    "SavingMoney": {
-      "value": "{Illustration.QuintoCred.SavingMoney}",
       "type": "asset"
     }
   }

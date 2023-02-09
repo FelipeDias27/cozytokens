@@ -485,5 +485,221 @@
         "type": "asset"
       }
     }
+  },
+  "Base": {
+    "value": "Oatmeal Pro 2",
+    "type": "fontFamilies"
+  },
+  "xxhuge": {
+    "value": "84.15px",
+    "type": "fontSizes"
+  },
+  "xhuge": {
+    "value": "63.13px",
+    "type": "fontSizes"
+  },
+  "huge": {
+    "value": "47.36px",
+    "type": "fontSizes"
+  },
+  "xlarge": {
+    "value": "35.53px",
+    "type": "fontSizes"
+  },
+  "large": {
+    "value": "26.65px",
+    "type": "fontSizes"
+  },
+  "medium": {
+    "value": "20px",
+    "type": "fontSizes"
+  },
+  "small": {
+    "value": "15px",
+    "type": "fontSizes"
+  },
+  "xsmall": {
+    "value": "12px",
+    "type": "fontSizes"
+  },
+  "Regular": {
+    "value": "Regular",
+    "type": "fontWeights"
+  },
+  "Strong": {
+    "value": "SemiBold",
+    "type": "fontWeights"
+  },
+  "xxtight": {
+    "value": "-1.68px",
+    "type": "letterSpacing"
+  },
+  "xtight": {
+    "value": "-1.26px",
+    "type": "letterSpacing"
+  },
+  "tight": {
+    "value": "-0.95px",
+    "type": "letterSpacing"
+  },
+  "xxnear": {
+    "value": "-0.71px",
+    "type": "letterSpacing"
+  },
+  "xnear": {
+    "value": "-0.53px",
+    "type": "letterSpacing"
+  },
+  "near": {
+    "value": "-0.4px",
+    "type": "letterSpacing"
+  },
+  "none": {
+    "value": "0px",
+    "type": "letterSpacing"
+  },
+  "HeroLarge": {
+    "value": {
+      "fontFamily": "{Base}",
+      "fontWeight": "{Strong}",
+      "fontSize": "{xxhuge}",
+      "letterSpacing": "{xxtight}",
+      "lineHeight": "{Height.xsmall}"
+    },
+    "type": "typography",
+    "description": "É utilizado para telas grandes, como páginas com conteúdo de marketing ou de vendas. Use com moderação."
+  },
+  "HeroMedium": {
+    "value": {
+      "fontFamily": "{Base}",
+      "fontWeight": "{Strong}",
+      "fontSize": "{xhuge}",
+      "letterSpacing": "{xtight}",
+      "lineHeight": "{Height.xsmall}"
+    },
+    "type": "typography",
+    "description": "É utilizado para telas grandes, como páginas com conteúdo de marketing ou de vendas. Use com moderação."
+  },
+  "HeroSmall": {
+    "value": {
+      "fontFamily": "{Base}",
+      "fontWeight": "{Strong}",
+      "fontSize": "{huge}",
+      "letterSpacing": "{tight}",
+      "lineHeight": "{Height.xsmall}"
+    },
+    "type": "typography",
+    "description": "É utilizado para telas grandes, como páginas com conteúdo de marketing ou de vendas. Use com moderação."
+  },
+  "Display": {
+    "value": {
+      "fontFamily": "{Base}",
+      "fontWeight": "{Strong}",
+      "fontSize": "{xlarge}",
+      "letterSpacing": "{xxnear}",
+      "lineHeight": "{Height.xsmall}"
+    },
+    "type": "typography",
+    "description": "É utilizado para telas grandes, como páginas com conteúdo de marketing ou de vendas. Use com moderação."
+  },
+  "Heading": {
+    "value": {
+      "fontFamily": "{Base}",
+      "fontWeight": "{Strong}",
+      "fontSize": "{large}",
+      "letterSpacing": "{xnear}",
+      "lineHeight": "{Height.large}"
+    },
+    "type": "typography",
+    "description": "É utilizado para telas grandes, como páginas com conteúdo de marketing ou de vendas. Use com moderação."
+  },
+  "Title": {
+    "value": {
+      "fontFamily": "{Base}",
+      "fontWeight": "{Strong}",
+      "fontSize": "{medium}",
+      "letterSpacing": "{near}",
+      "lineHeight": "{Height.small}"
+    },
+    "type": "typography",
+    "description": "É utilizado para telas grandes, como páginas com conteúdo de marketing ou de vendas. Use com moderação."
+  },
+  "Body": {
+    "value": {
+      "fontFamily": "{Base}",
+      "fontWeight": "{Regular}",
+      "fontSize": "{small}",
+      "letterSpacing": "{none}",
+      "lineHeight": "{Height.xhuge}"
+    },
+    "type": "typography",
+    "description": "É utilizado para telas grandes, como páginas com conteúdo de marketing ou de vendas. Use com moderação."
+  },
+  "BodyStrong": {
+    "value": {
+      "fontFamily": "{Base}",
+      "fontWeight": "{Strong}",
+      "fontSize": "{small}",
+      "letterSpacing": "{none}",
+      "lineHeight": "{Height.xhuge}"
+    },
+    "type": "typography",
+    "description": "É utilizado para telas grandes, como páginas com conteúdo de marketing ou de vendas. Use com moderação."
+  },
+  "Caption": {
+    "value": {
+      "fontFamily": "{Base}",
+      "fontWeight": "{Regular}",
+      "fontSize": "{xsmall}",
+      "letterSpacing": "{none}",
+      "lineHeight": "{Height.medium}"
+    },
+    "type": "typography",
+    "description": "É utilizado para telas grandes, como páginas com conteúdo de marketing ou de vendas. Use com moderação."
+  },
+  "CaptionStrong": {
+    "value": {
+      "fontFamily": "{Base}",
+      "fontWeight": "{Strong}",
+      "fontSize": "{xsmall}",
+      "letterSpacing": "{none}",
+      "lineHeight": "{Height.medium}"
+    },
+    "type": "typography",
+    "description": "É utilizado para telas grandes, como páginas com conteúdo de marketing ou de vendas. Use com moderação."
+  },
+  "Height": {
+    "xxhuge": {
+      "value": "170%",
+      "type": "lineHeights"
+    },
+    "xhuge": {
+      "value": "160%",
+      "type": "lineHeights"
+    },
+    "huge": {
+      "value": "150%",
+      "type": "lineHeights"
+    },
+    "xlarge": {
+      "value": "140%",
+      "type": "lineHeights"
+    },
+    "large": {
+      "value": "130%",
+      "type": "lineHeights"
+    },
+    "medium": {
+      "value": "120%",
+      "type": "lineHeights"
+    },
+    "small": {
+      "value": "110%",
+      "type": "lineHeights"
+    },
+    "xsmall": {
+      "value": "100%",
+      "type": "lineHeights"
+    }
   }
 }
