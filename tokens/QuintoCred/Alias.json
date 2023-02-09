@@ -148,186 +148,178 @@
         "type": "color"
       }
     },
-    "Decorative": {
-      "10": {
-        "value": "{_Base.Yellow.200}",
-        "type": "color"
+    "Brand": {
+      "Decorative": {
+        "Others": {
+          "Quinto": {
+            "value": "{_Base.Blue.400}",
+            "type": "color"
+          },
+          "Butter": {
+            "value": "{_Base.Yellow.200}",
+            "type": "color"
+          },
+          "Ocher": {
+            "value": "{_Base.Yellow.400}",
+            "type": "color"
+          },
+          "Spring": {
+            "value": "{_Base.Misc.Spring}",
+            "type": "color"
+          },
+          "Lime": {
+            "value": "{_Base.Misc.Lime}",
+            "type": "color"
+          },
+          "Olive": {
+            "value": "{_Base.Misc.Olive}",
+            "type": "color"
+          },
+          "Tea": {
+            "value": "{_Base.Misc.Tea}",
+            "type": "color"
+          },
+          "Forest": {
+            "value": "{_Base.Green.400}",
+            "type": "color"
+          },
+          "Moss": {
+            "value": "{_Base.Green.700}",
+            "type": "color"
+          },
+          "Frost": {
+            "value": "{_Base.Misc.Frost}",
+            "type": "color"
+          },
+          "Sky": {
+            "value": "{_Base.Misc.Sky}",
+            "type": "color"
+          },
+          "Cornflower": {
+            "value": "{_Base.Misc.Cornflower}",
+            "type": "color"
+          },
+          "Night": {
+            "value": "{_Base.Blue.600}",
+            "type": "color"
+          },
+          "Orchid": {
+            "value": "{_Base.Misc.Orchid}",
+            "type": "color"
+          },
+          "Heather": {
+            "value": "{_Base.Misc.Heather}",
+            "type": "color"
+          },
+          "Violet": {
+            "value": "{_Base.Misc.Violet}",
+            "type": "color"
+          },
+          "Plum": {
+            "value": "{_Base.Misc.Plum}",
+            "type": "color"
+          },
+          "Dogwood": {
+            "value": "{_Base.Misc.Dogwood}",
+            "type": "color"
+          },
+          "Rose": {
+            "value": "{_Base.Misc.Rose}",
+            "type": "color"
+          },
+          "Blush": {
+            "value": "{_Base.Pink.200}",
+            "type": "color"
+          },
+          "Chery": {
+            "value": "{_Base.Pink.700}",
+            "type": "color"
+          },
+          "Sand": {
+            "value": "{_Base.Misc.Sand}",
+            "type": "color"
+          },
+          "Brick": {
+            "value": "{_Base.Red.500}",
+            "type": "color"
+          },
+          "Terracotta": {
+            "value": "{_Base.Red.300}",
+            "type": "color"
+          },
+          "Cream": {
+            "value": "{_Base.Misc.Cream}",
+            "type": "color"
+          },
+          "Chocolate": {
+            "value": "{_Base.Misc.Chocolate}",
+            "type": "color"
+          },
+          "Coffee": {
+            "value": "{_Base.Misc.Coffee}",
+            "type": "color"
+          },
+          "Tan": {
+            "value": "{_Base.Misc.Tan}",
+            "type": "color"
+          },
+          "Wheat": {
+            "value": "{_Base.Misc.Wheat}",
+            "type": "color"
+          },
+          "Concrete": {
+            "value": "{_Base.Gray.200}",
+            "type": "color"
+          },
+          "WarmGray": {
+            "value": "{_Base.Gray.600}",
+            "type": "color"
+          },
+          "Black": {
+            "value": "{_Base.Gray.900}",
+            "type": "color"
+          }
+        },
+        "Light": {
+          "01": {
+            "value": "{_Base.Misc.Frost}",
+            "type": "color"
+          },
+          "02": {
+            "value": "{_Base.Misc.Cream}",
+            "type": "color"
+          },
+          "03": {
+            "value": "{_Base.Gray.200}",
+            "type": "color"
+          }
+        },
+        "Dark": {
+          "01": {
+            "value": "{_Base.Green.400}",
+            "type": "color"
+          },
+          "02": {
+            "value": "{_Base.Gray.600}",
+            "type": "color"
+          },
+          "03": {
+            "value": "{_Base.Misc.Coffee}",
+            "type": "color"
+          }
+        }
       },
-      "11": {
-        "value": "{_Base.Yellow.400}",
-        "type": "color"
-      },
-      "12": {
-        "value": "{_Base.Misc.Spring}",
-        "type": "color"
-      },
-      "13": {
-        "value": "{_Base.Misc.Lime}",
-        "type": "color"
-      },
-      "14": {
-        "value": "{_Base.Misc.Olive}",
-        "type": "color"
-      },
-      "15": {
-        "value": "{_Base.Green.400}",
-        "type": "color"
-      },
-      "16": {
+      "Highlight": {
         "value": "{_Base.Green.700}",
         "type": "color"
       },
-      "17": {
-        "value": "{_Base.Misc.Frost}",
+      "Default": {
+        "value": "{_Base.Green.0}",
         "type": "color"
       },
-      "18": {
-        "value": "{_Base.Misc.Sky}",
+      "Hovered": {
+        "value": "{_Base.Green.50}",
         "type": "color"
-      },
-      "19": {
-        "value": "{_Base.Misc.Cornflower}",
-        "type": "color"
-      },
-      "20": {
-        "value": "{_Base.Blue.600}",
-        "type": "color"
-      },
-      "21": {
-        "value": "{_Base.Misc.Orchid}",
-        "type": "color"
-      },
-      "22": {
-        "value": "{_Base.Misc.Heather}",
-        "type": "color"
-      },
-      "23": {
-        "value": "{_Base.Misc.Violet}",
-        "type": "color"
-      },
-      "24": {
-        "value": "{_Base.Misc.Plum}",
-        "type": "color"
-      },
-      "25": {
-        "value": "{_Base.Misc.Dogwood}",
-        "type": "color"
-      },
-      "26": {
-        "value": "{_Base.Misc.Rose}",
-        "type": "color"
-      },
-      "27": {
-        "value": "{_Base.Pink.200}",
-        "type": "color"
-      },
-      "28": {
-        "value": "{_Base.Pink.700}",
-        "type": "color"
-      },
-      "29": {
-        "value": "{_Base.Misc.Sand}",
-        "type": "color"
-      },
-      "30": {
-        "value": "{_Base.Misc.Apricot}",
-        "type": "color"
-      },
-      "31": {
-        "value": "{_Base.Red.500}",
-        "type": "color"
-      },
-      "32": {
-        "value": "{_Base.Red.300}",
-        "type": "color"
-      },
-      "01": {
-        "value": "{_Base.Blue.400}",
-        "type": "color",
-        "Lighter": {
-          "value": "{_Base.Blue.00}",
-          "type": "color"
-        },
-        "Hovered": {
-          "value": "{_Base.Blue.100}",
-          "type": "color"
-        }
-      },
-      "02": {
-        "value": "{_Base.Misc.Creme}",
-        "type": "color"
-      },
-      "09": {
-        "value": "{_Base.Misc.Chocolate}",
-        "type": "color"
-      },
-      "08": {
-        "value": "{_Base.Misc.Coffee}",
-        "type": "color"
-      },
-      "07": {
-        "value": "{_Base.Misc.Tan}",
-        "type": "color"
-      },
-      "06": {
-        "value": "{_Base.Misc.Wheat}",
-        "type": "color"
-      },
-      "03": {
-        "value": "{_Base.Gray.200}",
-        "type": "color"
-      },
-      "04": {
-        "value": "{_Base.Gray.600}",
-        "type": "color"
-      },
-      "05": {
-        "value": "{_Base.Gray.900}",
-        "type": "color"
-      },
-      "Lighter": {
-        "01": {
-          "value": "{_Base.Misc.Frost}",
-          "type": "color"
-        },
-        "02": {
-          "value": "{_Base.Misc.Creme}",
-          "type": "color"
-        },
-        "03": {
-          "value": "{_Base.Misc.Wheat}",
-          "type": "color"
-        },
-        "04": {
-          "value": "{_Base.Gray.200}",
-          "type": "color"
-        },
-        "05": {
-          "value": "{_Base.Gray.50}",
-          "type": "color"
-        }
-      },
-      "Darker": {
-        "01": {
-          "value": "{_Base.Green.400}",
-          "type": "color"
-        },
-        "02": {
-          "value": "{_Base.Green.700}",
-          "type": "color"
-        },
-        "03": {
-          "value": "{_Base.Gray.600}",
-          "type": "color"
-        },
-        "04": {
-          "value": "{_Base.Misc.Coffee}",
-          "type": "color"
-        },
-        "05": {
-          "value": "{_Base.Gray.900}",
-          "type": "color"
-        }
       }
     },
     "Skeleton": {
@@ -419,12 +411,12 @@
       "type": "color"
     },
     "Decorative": {
-      "Darker": {
-        "value": "{_Base.Green.700}",
+      "Light": {
+        "value": "{_Base.Misc.Cream}",
         "type": "color"
       },
-      "Lighter": {
-        "value": "{_Base.Misc.Creme}",
+      "Dark": {
+        "value": "{_Base.Green.700}",
         "type": "color"
       }
     },
@@ -479,35 +471,37 @@
       "type": "color"
     },
     "Decorative": {
-      "16": {
-        "value": "{_Base.Green.700}",
+      "Others": {
+        "16": {
+          "value": "{_Base.Green.700}",
+          "type": "color"
+        },
+        "23": {
+          "value": "{_Base.Misc.Violet}",
+          "type": "color"
+        },
+        "28": {
+          "value": "{_Base.Pink.700}",
+          "type": "color"
+        },
+        "31": {
+          "value": "{_Base.Red.500}",
+          "type": "color"
+        },
+        "01": {
+          "value": "{_Base.Blue.400}",
+          "type": "color"
+        },
+        "08": {
+          "value": "{_Base.Misc.Coffee}",
+          "type": "color"
+        }
+      },
+      "Light": {
+        "value": "{_Base.Misc.Cream}",
         "type": "color"
       },
-      "23": {
-        "value": "{_Base.Misc.Violet}",
-        "type": "color"
-      },
-      "28": {
-        "value": "{_Base.Pink.700}",
-        "type": "color"
-      },
-      "31": {
-        "value": "{_Base.Red.500}",
-        "type": "color"
-      },
-      "01": {
-        "value": "{_Base.Blue.400}",
-        "type": "color"
-      },
-      "08": {
-        "value": "{_Base.Misc.Coffee}",
-        "type": "color"
-      },
-      "Lighter": {
-        "value": "{_Base.Misc.Creme}",
-        "type": "color"
-      },
-      "Darker": {
+      "Dark": {
         "value": "{_Base.Green.700}",
         "type": "color"
       }

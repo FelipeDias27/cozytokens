@@ -1,20 +1,19 @@
 [
   {
-    "id": "c534edfcb995e21841b6f96c32476a9fd222f71a",
-    "name": "QuintoCred",
-    "selectedTokenSets": {
-      "Global/Base": "enabled",
-      "QuintoCred/Alias": "enabled",
-      "QuintoAndar/Alias": "disabled"
-    },
-    "$figmaStyleReferences": {}
-  },
-  {
     "id": "c20d27b8eb2c10e120a23c5460e6ae1ec18f6dfa",
     "name": "QuintoAndar",
     "selectedTokenSets": {
       "Global/Base": "enabled",
       "QuintoAndar/Alias": "enabled"
+    },
+    "$figmaStyleReferences": {}
+  },
+  {
+    "id": "c534edfcb995e21841b6f96c32476a9fd222f71a",
+    "name": "QuintoCred",
+    "selectedTokenSets": {
+      "Global/Base": "enabled",
+      "QuintoCred/Alias": "enabled"
     },
     "$figmaStyleReferences": {}
   }
