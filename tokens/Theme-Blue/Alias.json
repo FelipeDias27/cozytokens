@@ -576,11 +576,11 @@
     },
     "radius": {
       "informative": {
-        "value": "{border.radius.4}",
+        "value": "{demo.4}",
         "type": "borderRadius"
       },
       "cta": {
-        "value": "{border.radius.1}",
+        "value": "{demo.1}",
         "type": "borderRadius"
       }
     }

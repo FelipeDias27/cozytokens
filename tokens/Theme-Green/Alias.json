@@ -588,11 +588,11 @@
     },
     "radius": {
       "informative": {
-        "value": "{border.radius.3}",
+        "value": "{demo.3}",
         "type": "borderRadius"
       },
       "cta": {
-        "value": "{border.radius.1}",
+        "value": "{demo.1}",
         "type": "borderRadius"
       }
     }

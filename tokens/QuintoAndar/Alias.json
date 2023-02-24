@@ -310,11 +310,11 @@
         "type": "color"
       },
       "Default": {
-        "value": "{_Base.Blue.50}",
+        "value": "{_Base.Blue.0}",
         "type": "color"
       },
       "Hovered": {
-        "value": "{_Base.Blue.100}",
+        "value": "{_Base.Blue.50}",
         "type": "color"
       }
     },
@@ -412,7 +412,7 @@
         "type": "color"
       },
       "Dark": {
-        "value": "{_Base.Blue.400}",
+        "value": "{_Base.Blue.600}",
         "type": "color"
       }
     }
@@ -461,20 +461,20 @@
       "type": "color"
     },
     "Brand": {
-      "Others": {
-        "16": {
+      "Decorative": {
+        "03": {
           "value": "{_Base.Green.700}",
           "type": "color"
         },
-        "23": {
+        "04": {
           "value": "{_Base.Misc.Violet}",
           "type": "color"
         },
-        "28": {
+        "05": {
           "value": "{_Base.Pink.700}",
           "type": "color"
         },
-        "31": {
+        "06": {
           "value": "{_Base.Red.500}",
           "type": "color"
         },
@@ -482,7 +482,7 @@
           "value": "{_Base.Blue.400}",
           "type": "color"
         },
-        "08": {
+        "02": {
           "value": "{_Base.Misc.Coffee}",
           "type": "color"
         }
@@ -492,7 +492,7 @@
         "type": "color"
       },
       "Dark": {
-        "value": "{_Base.Blue.400}",
+        "value": "{_Base.Blue.600}",
         "type": "color"
       }
     },
