@@ -285,7 +285,7 @@
           "type": "color"
         },
         "02": {
-          "value": "{_Base.Misc.Rose}",
+          "value": "{_Base.Misc.Dogwood}",
           "type": "color"
         },
         "03": {
@@ -407,11 +407,11 @@
       "type": "color"
     },
     "Brand": {
-      "Light": {
+      "Inverse": {
         "value": "{_Base.Gray.50}",
         "type": "color"
       },
-      "Dark": {
+      "Default": {
         "value": "{_Base.Blue.600}",
         "type": "color"
       }
@@ -487,11 +487,11 @@
           "type": "color"
         }
       },
-      "Light": {
+      "Inverse": {
         "value": "{_Base.Gray.50}",
         "type": "color"
       },
-      "Dark": {
+      "Default": {
         "value": "{_Base.Blue.600}",
         "type": "color"
       }
