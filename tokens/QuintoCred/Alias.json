@@ -407,11 +407,11 @@
       "type": "color"
     },
     "Brand": {
-      "Light": {
+      "Inverse": {
         "value": "{_Base.Misc.Cream}",
         "type": "color"
       },
-      "Dark": {
+      "Default": {
         "value": "{_Base.Green.700}",
         "type": "color"
       }
@@ -493,11 +493,11 @@
           "type": "color"
         }
       },
-      "Light": {
+      "Inverse": {
         "value": "{_Base.Misc.Cream}",
         "type": "color"
       },
-      "Dark": {
+      "Default": {
         "value": "{_Base.Green.700}",
         "type": "color"
       }
